@@ -1,0 +1,14 @@
+C:\Users\Balboa Boukoutretsas\source\repos\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.exe.config
+C:\Users\Balboa Boukoutretsas\source\repos\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.exe
+C:\Users\Balboa Boukoutretsas\source\repos\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.pdb
+C:\Users\Balboa Boukoutretsas\source\repos\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.csprojResolveAssemblyReference.cache
+C:\Users\Balboa Boukoutretsas\source\repos\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.csproj.CoreCompileInputs.cache
+C:\Users\Balboa Boukoutretsas\source\repos\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.exe
+C:\Users\Balboa Boukoutretsas\source\repos\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.pdb
+C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.exe.config
+C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.exe
+C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.pdb
+C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.exe
+C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.pdb
