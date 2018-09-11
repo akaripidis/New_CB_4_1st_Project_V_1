@@ -12,3 +12,10 @@ C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\
 C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.csproj.CoreCompileInputs.cache
 C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.exe
 C:\Users\me\Desktop\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.pdb
+C:\Users\me\Documents\CSharp_theory\AnestisKarypidisProject\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.exe.config
+C:\Users\me\Documents\CSharp_theory\AnestisKarypidisProject\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.exe
+C:\Users\me\Documents\CSharp_theory\AnestisKarypidisProject\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\bin\Debug\New_CB_4_1st_Project_V_1.pdb
+C:\Users\me\Documents\CSharp_theory\AnestisKarypidisProject\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.csprojAssemblyReference.cache
+C:\Users\me\Documents\CSharp_theory\AnestisKarypidisProject\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.csproj.CoreCompileInputs.cache
+C:\Users\me\Documents\CSharp_theory\AnestisKarypidisProject\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.exe
+C:\Users\me\Documents\CSharp_theory\AnestisKarypidisProject\New_CB_4_1st_Project_V_1\New_CB_4_1st_Project_V_1\obj\Debug\New_CB_4_1st_Project_V_1.pdb
