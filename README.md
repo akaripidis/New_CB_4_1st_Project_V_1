@@ -1,4 +1,8 @@
 # New_CB_4_1st_Project_V_1
+(used ADO net) Please make sure you check the remake of this project using entity
+as it better represents my current ability to write code.
+
+
 This project was requested as part of a very intensive seminar program that i attended. 
 It is a single console application that it should register users in order to give them 
 the ability to exchange messages. You should also be able to assign different responsibilities
